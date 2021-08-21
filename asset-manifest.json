@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/easy-notes-react/static/js/main.cf68fa4c.chunk.js",
+    "main.js.map": "/easy-notes-react/static/js/main.cf68fa4c.chunk.js.map",
+    "runtime-main.js": "/easy-notes-react/static/js/runtime-main.74da2216.js",
+    "runtime-main.js.map": "/easy-notes-react/static/js/runtime-main.74da2216.js.map",
+    "static/js/2.7c83e95b.chunk.js": "/easy-notes-react/static/js/2.7c83e95b.chunk.js",
+    "static/js/2.7c83e95b.chunk.js.map": "/easy-notes-react/static/js/2.7c83e95b.chunk.js.map",
+    "index.html": "/easy-notes-react/index.html",
+    "precache-manifest.01f82a19128e57f7004157cb0b9391da.js": "/easy-notes-react/precache-manifest.01f82a19128e57f7004157cb0b9391da.js",
+    "service-worker.js": "/easy-notes-react/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74da2216.js",
+    "static/js/2.7c83e95b.chunk.js",
+    "static/js/main.cf68fa4c.chunk.js"
+  ]
+}

@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/easy-notes-react/static/js/main.cf68fa4c.chunk.js",
-    "main.js.map": "/easy-notes-react/static/js/main.cf68fa4c.chunk.js.map",
-    "runtime-main.js": "/easy-notes-react/static/js/runtime-main.74da2216.js",
-    "runtime-main.js.map": "/easy-notes-react/static/js/runtime-main.74da2216.js.map",
-    "static/js/2.7c83e95b.chunk.js": "/easy-notes-react/static/js/2.7c83e95b.chunk.js",
-    "static/js/2.7c83e95b.chunk.js.map": "/easy-notes-react/static/js/2.7c83e95b.chunk.js.map",
-    "index.html": "/easy-notes-react/index.html",
-    "precache-manifest.01f82a19128e57f7004157cb0b9391da.js": "/easy-notes-react/precache-manifest.01f82a19128e57f7004157cb0b9391da.js",
-    "service-worker.js": "/easy-notes-react/service-worker.js"
+    "main.js": "/easy-notes-React/static/js/main.4f28546e.chunk.js",
+    "main.js.map": "/easy-notes-React/static/js/main.4f28546e.chunk.js.map",
+    "runtime-main.js": "/easy-notes-React/static/js/runtime-main.34086367.js",
+    "runtime-main.js.map": "/easy-notes-React/static/js/runtime-main.34086367.js.map",
+    "static/js/2.94fe7f3d.chunk.js": "/easy-notes-React/static/js/2.94fe7f3d.chunk.js",
+    "static/js/2.94fe7f3d.chunk.js.map": "/easy-notes-React/static/js/2.94fe7f3d.chunk.js.map",
+    "index.html": "/easy-notes-React/index.html",
+    "precache-manifest.b0ab0c431586a8f1e5e1d62ede29fd36.js": "/easy-notes-React/precache-manifest.b0ab0c431586a8f1e5e1d62ede29fd36.js",
+    "service-worker.js": "/easy-notes-React/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.74da2216.js",
-    "static/js/2.7c83e95b.chunk.js",
-    "static/js/main.cf68fa4c.chunk.js"
+    "static/js/runtime-main.34086367.js",
+    "static/js/2.94fe7f3d.chunk.js",
+    "static/js/main.4f28546e.chunk.js"
   ]
 }
